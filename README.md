@@ -5,7 +5,7 @@ Welcome to group 35's Github repository! This respository provides all codes and
 1. For our project, it's very simple! With the support of streamlit, we can upload our project with a requirement.txt and it will publish it with a unique link!
 2. Link: https://coralbleaching.streamlit.app/
 
-## Demostration
+## Demonstration
 link: https://www.youtube.com/watch?v=pAwfDLv6btg
 
 ## Presentation
